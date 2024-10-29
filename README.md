@@ -5,7 +5,7 @@ Este projeto realiza uma análise de logs usando Apache Spark no Databricks, com
 
 
 ## Acesso ao Projeto
-O projeto está disponível no GitHub. Para acessá-lo, siga o link: (https://github.com/brnsar/Projeto---Code).
+O projeto está disponível no GitHub. Para acessá-lo, siga o link: ([https://github.com/brnsar/Code]).
 Baixe o arquivo intitulado Projeto.dbc e suba ele no Databricks.
 
 ### Estrutura do Repositório
