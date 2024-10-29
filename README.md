@@ -21,8 +21,9 @@ Baixe o arquivo intitulado Projeto.dbc e suba ele no Databricks.
 ### 1. Acesse o Notebook
 - Baixe o repositório para seu ambiente local.
 - Abra o notebook 
-- Execute a primeira e segunda célula obrigatoriamente e em seguida, poderá executar a célula desejada conforme a necesssidade, apertando no botão superior a esquerda como um 'play'.
-- As celulas de 9 a 11 são para a criação de tabela no DeltaLake, sendo a 9 para criação do DataFrame unificado, a 10 para salvar o DataFrame Unificado no Delta Lake e a 11 criar uma tabela para consulta.
+- Execute a primeira e segunda célula obrigatoriamente para o arquivo funcionar orretamente nas próximas células.
+- As células de 8 a 10 são para a criação e visualização da tabela no DeltaLake, sendo a 8 para criação do DataFrame unificado, a 9 para salvar o DataFrame Unificado no Delta Lake e a 10 criar uma tabela para consulta.
+- As células 11 e 12 representam um exemplo prático de como a tabela criada anteriormente pode ser utilizada como consulta e visualização dos dados salvos no DeltaLake.
 - No código, há títulos e comentários facilitando seu manuseio.
 
 ## Contato
